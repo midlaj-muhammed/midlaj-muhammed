@@ -53,5 +53,3 @@ I build cool stuff 💫
 </p>
 
 <a href="https://github.com/midlaj-muhammed">GitHub</a> · <a href="https://midlaj-muhammed.github.io/Portfolio/">Website</a>
-
-<p align="center"><sub>Muhammed Midlaj · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
